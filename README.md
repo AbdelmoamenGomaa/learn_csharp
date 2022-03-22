@@ -2,7 +2,7 @@
 
 _tutorial to learn c_sharp_
 
-1. ## _Basic Csharp_
+ ## _Basic Csharp_
 
 > out the code by **__Console.WriteLine() __** function.
 
