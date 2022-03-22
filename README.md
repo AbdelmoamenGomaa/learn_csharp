@@ -13,4 +13,4 @@ _Examples_ : **_Console.WriteLine("Learn Basic of c#");_**
 
 > **Note**: C sharp is case sensitive.
 
-# Data Type
+## Data Type
